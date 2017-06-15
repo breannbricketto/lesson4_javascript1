@@ -13,8 +13,7 @@ Breann Bricketto
 This program is deisgned to calculate your total expenses and to calculate the percentage each expense is in your budget.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://breannbricketto.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. I learned the difference between Java and JavaScript
